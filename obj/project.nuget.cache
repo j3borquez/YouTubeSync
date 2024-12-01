@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9r0MsL+NMk=",
+  "success": true,
+  "projectFilePath": "E:\\Project_School\\c_sharp\\async\\YouTubeSync\\YouTubeSync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j3bor\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\j3bor\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\j3bor\\.nuget\\packages\\youtubeexplode\\6.4.4\\youtubeexplode.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
